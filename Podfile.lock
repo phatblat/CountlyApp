@@ -1,0 +1,14 @@
+PODS:
+  - Countly (18.01):
+    - Countly/NotificationService (= 18.01)
+  - Countly/NotificationService (18.01)
+
+DEPENDENCIES:
+  - Countly
+
+SPEC CHECKSUMS:
+  Countly: 0110f4e8661b3b963268ee58fe73e17d96309af0
+
+PODFILE CHECKSUM: 54370c8a850179c1dd84a33a4354338795e61a60
+
+COCOAPODS: 1.4.0
